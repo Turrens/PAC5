@@ -25,4 +25,17 @@
       <PREU>18.00</PREU>
     </PLAT>
   </GRUP>
+   <GRUP>
+    <NOM>POSTRES</NOM>
+    <PLAT>
+      <NOM>Flam</NOM>
+      <DESCRIPCIO>Flam casolà.</DESCRIPCIO>
+      <PREU>7.50</PREU>
+    </PLAT>
+    <PLAT>
+      <NOM>Profiteroles</NOM>
+      <DESCRIPCIO>Amb xocolata blanc.</DESCRIPCIO>
+      <PREU>8.00</PREU>
+    </PLAT>
+  </GRUP>
 </CARTA>
